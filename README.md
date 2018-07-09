@@ -1,3 +1,3 @@
 # text-encrypt
 Offline tool for basic text encrypting, decrypting and key / password generation
-Demo https://github.io/blws/text-encrypt
+Demo https://blws.github.io/text-encrypt
